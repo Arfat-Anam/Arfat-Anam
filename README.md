@@ -2,7 +2,7 @@
 - 👀 I’m interested in **Coding** ,**Web development**
 - 🌱 I’m currently learning **OOP**
 - 💞️ I’m looking to collaborate on **Web development teams**,**coding** and **programming**
-- 📫 How to reach me **anamarfatarfat@gmail.com
+- 📫 How to reach me **anamarfatarfat@gmail.com**
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: 
 I love turning coffee into code and I enjoy solving logic puzzles in  my free time!
