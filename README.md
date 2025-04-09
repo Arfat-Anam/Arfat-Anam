@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arfat-Anam
+- 👋 Hi, I’m Anam Arfat
 - 👀 I’m interested in **Coding** ,**Web development**
 - 🌱 I’m currently learning **OOP**
 - 💞️ I’m looking to collaborate on **Web development teams**,**coding** and **programming**
