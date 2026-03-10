@@ -1,16 +1,33 @@
-- 👋 Hi, I’m Anam Arfat
-- 👀 I’m interested in **Coding** ,**Web development**
-- 🌱 I’m currently learning **OOP**
-- 💞️ I’m looking to collaborate on **Web development teams**,**coding** and **programming**
-- 📫 How to reach me **anamarfatarfat@gmail.com**
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: 
-I love turning coffee into code and I enjoy solving logic puzzles in  my free time!
-<!---
-### Let's connect and build something amazing together!
+# 👋 Hi, I'm Anam Arfat 
+**Web Developer | OOP Enthusiast | Problem Solver**
 
-[LinkedIn](https://www.linkedin.com/in/anam-arfat-arfat-634232305?trk=contact-info).
+"Building scalable applications with a focus on clean, Object-Oriented design."
 
-Arfat-Anam/Arfat-Anam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🚀 Technical Focus
+- 🏗️ **Core Competency:** Transitioned from procedural coding to **Object-Oriented Programming (OOP)**. I focus on writing modular, reusable code using Principles like Encapsulation, Inheritance, and Polymorphism.
+- 🌐 **Web Development:** Crafting responsive and interactive web interfaces.
+- 🧩 **Logic & Algorithms:** I enjoy breaking down complex problems and solving logic puzzles.
+
+### 🛠️ Tech Stack
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | HTML5, CSS3, JavaScript, Python/Java (OOP Focus) |
+| **Architectures** | Object-Oriented Design, Modular Programming |
+| **Tools** | Git, GitHub, VS Code |
+
+### 📂 Featured Projects
+* **[Banking Management System](https://github.com/Arfat-Anam/Banking-Management-system)** – A project showcasing OOP principles in a real-world logic scenario.
+* **[Hospital System](https://github.com/Arfat-Anam/Hospital-System-1)** – Implementing structured data management.
+* **[Library System](https://github.com/Arfat-Anam/Library-system)** – Practice with classes and object relations.
+
+---
+
+### 📫 Connect with me
+- 📧 **Email:** [anamarfatarfat@gmail.com](mailto:anamarfatarfat@gmail.com)
+- 🤝 **Collaborations:** Open to Web Dev teams and Open Source projects.
+- ⚡ **Fun Fact:** I convert caffeine into high-quality code and solve puzzles for fun!
+
+---
+![Anam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arfat-Anam&show_icons=true&theme=tokyonight)
